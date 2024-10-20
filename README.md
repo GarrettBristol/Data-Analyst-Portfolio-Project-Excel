@@ -12,5 +12,7 @@ Files Contained in the Repository:
       README.md
       Written_Report.docx
 
+Methodology & Recomindations:
+
 We can tell from the charts and graphs that coffee is by far the most sold item by category. This makes sense considering the hours when transactions occur in greatest quantity. It is advised after considering the data to perhaps reestablish the operating hours of the stores to a time when the cost of staying open is justified by the revenue the store is generating. Closing the store after 6:00 PM may be beneficial to the net store revenue at the end of the day.
 
